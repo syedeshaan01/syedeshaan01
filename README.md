@@ -1,4 +1,4 @@
-[![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1ed6269f-f0c0-4db0-abec-f05f8b221333/d1qftz2-2a0037c9-ae24-477c-b1e9-4c3a852033a2.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi8xZWQ2MjY5Zi1mMGMwLTRkYjAtYWJlYy1mMDVmOGIyMjEzMzMvZDFxZnR6Mi0yYTAwMzdjOS1hZTI0LTQ3N2MtYjFlOS00YzNhODUyMDMzYTIuZ2lmIn1dXX0.o5ERfHNX3WOJ4yrv8zLZ_CNP1M0SmSz46NhdL3ep5vY)
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif)
 <h1 align="center">Hi 👋, I'm SYED ESHAAN ALI</h1>
 <h3 align="center">A Passionate frontend developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
