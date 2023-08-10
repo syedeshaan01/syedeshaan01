@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
+[![MasterHead](https://tse4.mm.bing.net/th?id=OIP.6RAoyam-79uu7tbS2vH8IgHaEK&pid=Api&P=0&h=180)
 <h1 align="center">Hi 👋, I'm SYED ESHAAN ALI</h1>
 <h3 align="center">A Passionate frontend developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
