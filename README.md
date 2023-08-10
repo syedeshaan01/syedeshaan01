@@ -14,8 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img align="right" alt="coding" width="600" src="https://tse2.mm.bing.net/th?id=OIP.deo4SV06W8DJAxa1f5u_tQHaCR&pid=Api&P=0&h=180"
+
 <h1 align="center">Hi 👋, I'm SYED ESHAAN ALI</h1>
-<h3 align="center">A Passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate frontend developer from Pakistan</h3>
+
+<img align="right" alt="coding" width="400" src="https://tse4.mm.bing.net/th?id=OIP.VON9gHTrzeHZbHfXsqfzEAHaEq&pid=Api&P=0&h=180 "
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedeshaan01&label=Profile%20views&color=0e75b6&style=flat" alt="syedeshaan01" /> </p>
 
