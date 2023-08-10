@@ -1,4 +1,4 @@
-[![MasterHead](https://tse4.mm.bing.net/th?id=OIP.6RAoyam-79uu7tbS2vH8IgHaEK&pid=Api&P=0&h=180)
+[![MasterHead](https://i0.wp.com/myotakuworld.com/wp-content/uploads/2020/09/Anime-Hackers-1.png)
 <h1 align="center">Hi 👋, I'm SYED ESHAAN ALI</h1>
 <h3 align="center">A Passionate frontend developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
