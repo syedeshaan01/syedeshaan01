@@ -1,6 +1,6 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif)
 <h1 align="center">Hi 👋, I'm SYED ESHAAN ALI</h1>
-<h3 align="center">A Passionate full Stack developer from Pakistan</h3>
+<h3 align="center">A Passionate full-Stack developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedeshaan01&label=Profile%20views&color=0e75b6&style=flat" alt="syedeshaan01" /> </p>
@@ -9,12 +9,13 @@
 
 - 📫 How to reach me **eshaansyed199@gmail.com**
 
-- ⚡ Fun fact **Talks Less**
+- ⚡ Fun fact **Talks Less, Work More**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/_3shaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_3shaan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/dilnasheen gaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dilnasheen gaming" height="30" width="40" /></a>
+<a> href="https://</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
