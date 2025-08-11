@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **eshaansyed199@gmail.com**
 
-- ⚡ Fun fact **lame Joker .**
+- ⚡ Fun fact **Talks Less .**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
